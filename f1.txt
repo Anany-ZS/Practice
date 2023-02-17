@@ -1,7 +1,4 @@
-hello world. 
+Hello world
+CV is required
 
-First repo initialized
-:wq
-:wq
-
-
+yes
